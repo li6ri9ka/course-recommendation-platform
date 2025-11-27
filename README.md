@@ -521,8 +521,3 @@ cd recommendation-service && ./gradlew test
 - [ ] Реализовать API Gateway
 - [ ] Добавить распределённую трассировку (Zipkin/Jaeger)
 
----
-
-## Авторы
-
-# li6ri9ka
